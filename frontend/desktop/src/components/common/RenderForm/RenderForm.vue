@@ -200,6 +200,7 @@
                             break
                         case 'checkbox':
                         case 'datatable':
+                        case 'fast_datatable':
                         case 'tree':
                         case 'upload':
                             val = []
